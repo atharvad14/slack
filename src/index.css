@@ -1,5 +1,6 @@
 * {
   margin: 0;
+  /* Removes default margins forr all the components present in the app  */
 }
 
 body {
